@@ -1,0 +1,12 @@
+{
+  "name": "script_2",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jsdom": "^16.4.0",
+    "moment": "^2.29.1",
+    "neat-csv": "^6.0.0",
+    "sqlite3": "^5.0.0",
+    "uuid": "^8.3.2"
+  }
+}
